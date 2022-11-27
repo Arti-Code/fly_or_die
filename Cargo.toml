@@ -1,0 +1,12 @@
+[package]
+name = "fly_or_die"
+version = "0.1.0"
+edition = "2021"
+authors = ["Artur Gwoździowski"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.9.0"
+bevy_rapier2d = "0.19.0"
+rand = "0.8.5"
